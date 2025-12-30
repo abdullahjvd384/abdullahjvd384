@@ -1,97 +1,138 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">AI / Machine Learning Engineer @ Metaviz | CS Student | AI Research & Product Builder</h3>
+<h3 align="center">
+AI / Machine Learning Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Years Experience
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-blue?logo=linkedin"/>
   </a>
   <a href="mailto:abdullahjvd384@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
   </a>
   <a href="https://abdullahjvd384.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=github"/>
+    <img src="https://img.shields.io/badge/Portfolio-Dev%20Blogs-success?logo=github"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01f0a1c55cbc8d4ab7">
-    <img src="https://img.shields.io/badge/Upwork-Freelancer-brightgreen?logo=upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?logo=upwork"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me (Recruiter Snapshot)
+## 🚀 Recruiter Snapshot
 
-- 🎓 **Computer Science student** with strong foundations in **AI, ML, NLP & Software Engineering**
-- 👨‍💻 **AI/ML Engineer @ Metaviz**, working on applied machine learning systems
-- 🧠 Hands-on experience with **Deep Learning, Transformers, NLP, and Multimodal models**
-- 🔍 Built **end-to-end ML systems** from data preprocessing → modeling → evaluation → deployment-ready backends
-- ✍️ Active **technical blogger**, writing AI & developer-focused content
-- 🎯 Actively seeking **AI / ML Internship opportunities** where I can contribute and grow
+- 👨‍💻 **AI / Machine Learning Engineer @ Metaviz**
+- 🎓 **BS Data Science** — FAST National University (FAST NUCES)
+- ⏳ **2+ years of professional & project-based experience**
+- 🤖 Specialized in **Machine Learning, Deep Learning, NLP & Computer Vision**
+- 🧠 Strong experience in **end-to-end AI systems** (data → model → API → deployment)
+- 🔧 Comfortable with **backend, ML infra, automation & no-code tools**
+- 🎯 Actively open to **AI/ML internships, junior AI roles & freelance work**
 
 ---
 
 ## 💼 Current Role
 
 ### 🧠 AI / Machine Learning Engineer — **Metaviz**
-- Developing and experimenting with **machine learning & NLP models**
-- Working on **real-world data pipelines and AI-driven solutions**
-- Applying research concepts to **production-oriented systems**
+- Designing and developing **ML & NLP-based solutions**
+- Working on **data pipelines, model experimentation, and inference systems**
+- Applying research concepts to **real-world, production-ready AI systems**
+- Collaborating with engineers to integrate models via **APIs & services**
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Key Projects
 
-### 🔍 Fake News Detection (Text + Image | Multimodal AI)
-- Built a **complete fake news detection system**
+### 📰 Multimodal Fake News Detection System (Text + Image)
+- Developed a **full-stack AI system** to classify **Real vs Fake News**
+- Supports **both text and image inputs**
 - Models used:
-  - **XGBoost, Random Forest, KNN**
-  - **LSTM, BiLSTM, GRU**
-- Combined **text & image embeddings**
-- Designed backend logic for **real-time inference**
-- 🚧 Currently building a **user-facing web interface**
+  - Traditional ML: **XGBoost, Random Forest, KNN**
+  - Deep Learning: **LSTM, BiLSTM, GRU**
+- Used **text & image embeddings**
+- Backend designed for **real-time predictions**
+- 🚀 Currently working on a **user-friendly web interface**
 
-### 💬 Sentiment Analysis with Deep Learning & Transformers
-- Binary text classification task
+---
+
+### 🎓 Final Year Project (FYP)
+## 📚 Student Learning & Career Assistance Platform
+- AI-powered platform to assist students with:
+  - Learning guidance
+  - Career recommendations
+  - Skill-based suggestions
+- Integrates **ML/NLP-based intelligence** for personalization
+- Focused on **real-world student problems & career planning**
+
+---
+
+### 💬 Sentiment Analysis (DL & Transformers)
+- Binary text classification
 - Implemented & compared:
   - RNN, GRU, LSTM, BiLSTM
   - **mBERT, XLM-RoBERTa**
 - Evaluation metrics:
   - Accuracy, Precision, Recall, F1-score
-- Included **hyperparameter analysis**
-
-### 🌐 Backend & Software Projects
-- 🛒 E-commerce backend (**C#**)
-- 🏦 Desktop banking backend application (**C#**)
-- REST APIs & structured backend architectures
+- Included **hyperparameter tuning & analysis**
 
 ---
 
-## 🛠️ Technical Skills
+### ⚙️ Automation & No-Code Workflows
+- Built **AI + automation workflows** using:
+  - **n8n**
+  - Zapier
+  - Make.com
+  - Cassidy
+- Automated:
+  - Data flows
+  - AI API calls
+  - Content & system integrations
 
-### 👨‍💻 Programming
+---
+
+## 🛠️ Technical Skills & Technologies
+
+### 👨‍💻 Programming & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"/>
   <img src="https://img.shields.io/badge/C%23-purple?logo=csharp"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript"/>
 </p>
 
-### 🤖 AI / ML / NLP
+### 🤖 AI / ML / CV / NLP
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-orange"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-red"/>
   <img src="https://img.shields.io/badge/NLP-green"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-blue"/>
   <img src="https://img.shields.io/badge/Transformers-black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-blue"/>
-  <img src="https://img.shields.io/badge/TensorFlow-orange"/>
   <img src="https://img.shields.io/badge/PyTorch-red"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange"/>
 </p>
 
-### 🌐 Web & Tools
+### 🗄️ Databases & Caching
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3"/>
-  <img src="https://img.shields.io/badge/MERN-black"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-lightgrey?logo=github"/>
-  <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Redis-red?logo=redis"/>
+</p>
+
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
+  <img src="https://img.shields.io/badge/Postman-orange?logo=postman"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Jupyter-orange?logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-yellow?logo=googlecolab"/>
+</p>
+
+### ⚡ No-Code / Automation
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D00"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00"/>
+  <img src="https://img.shields.io/badge/Make.com-purple"/>
+  <img src="https://img.shields.io/badge/Cassidy-black"/>
 </p>
 
 ---
@@ -99,11 +140,11 @@
 ## ✍️ Technical Writing & Blogging
 
 - 📝 Founder of **Dev Blogs**
-- Topics:
+- Writing in-depth articles on:
   - AI & Machine Learning
-  - NLP & Modern AI Tools
-  - Web Development & Developer Productivity
-- Focused on **high-quality, in-depth, monetized tech content**
+  - NLP & Computer Vision
+  - Developer tools & modern AI stacks
+- Focused on **high-quality, long-form, monetized content**
 
 🌐 https://abdullahjvd384.github.io/
 
@@ -118,19 +159,10 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced NLP & Transformer architectures
-- RAG, LangChain, LangGraph
-- AI system design & scalable ML backends
-- Research-to-production ML workflows
-
----
-
 ## 🎯 Career Objective
 
-> To secure an **AI / Machine Learning Internship** where I can apply my skills in **ML, NLP, and Deep Learning** to real-world problems while learning from experienced engineers and researchers.
+> AI / Machine Learning Engineer passionate about building **intelligent, scalable, and real-world AI systems**, seeking opportunities to grow, innovate, and contribute to impactful products.
 
 ---
 
-⭐ **Open to collaborations, internships, and impactful AI projects**
+⭐ **Open to AI/ML internships, junior roles, collaborations & freelance projects**
