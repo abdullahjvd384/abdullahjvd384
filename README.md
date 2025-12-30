@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">
-AI / Machine Learning Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Years Experience
+AI / ML Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Years Experience
 </h3>
 
 <p align="center">
@@ -134,8 +134,11 @@ AI + automation pipelines using no-code tools
 <p>
   <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Redis-991B1B?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker"/>
 </p>
+
 
 ### 🧰 Tools
 <p>
