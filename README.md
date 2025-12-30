@@ -5,16 +5,16 @@ AI / Machine Learning Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Yea
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abdullahjvd384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://abdullahjvd384.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Dev%20Blogs-success?logo=github"/>
+    <img src="https://img.shields.io/badge/Portfolio-Dev%20Blogs-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01f0a1c55cbc8d4ab7">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?logo=upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
@@ -24,145 +24,157 @@ AI / Machine Learning Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Yea
 
 - 👨‍💻 **AI / Machine Learning Engineer @ Metaviz**
 - 🎓 **BS Data Science** — FAST National University (FAST NUCES)
-- ⏳ **2+ years of professional & project-based experience**
-- 🤖 Specialized in **Machine Learning, Deep Learning, NLP & Computer Vision**
-- 🧠 Strong experience in **end-to-end AI systems** (data → model → API → deployment)
-- 🔧 Comfortable with **backend, ML infra, automation & no-code tools**
-- 🎯 Actively open to **AI/ML internships, junior AI roles & freelance work**
+- ⏳ **2+ years professional experience** (AI, ML, Backend & Automation)
+- 🤖 Expertise in **Machine Learning, Deep Learning, NLP & Computer Vision**
+- ⚙️ Built **end-to-end AI systems** (data → models → APIs → deployment)
+- 🔁 Strong in **automation & AI workflows** using no-code tools
+- 🎯 Open to **AI/ML internships, junior AI roles & freelance projects**
 
 ---
 
 ## 💼 Current Role
 
 ### 🧠 AI / Machine Learning Engineer — **Metaviz**
-- Designing and developing **ML & NLP-based solutions**
-- Working on **data pipelines, model experimentation, and inference systems**
-- Applying research concepts to **real-world, production-ready AI systems**
-- Collaborating with engineers to integrate models via **APIs & services**
+- Designing and deploying **ML & NLP-based solutions**
+- Working on **data pipelines, experimentation & inference APIs**
+- Collaborating with backend & product teams for **AI integration**
+- Applying research ideas into **production-ready systems**
 
 ---
 
-## 🧠 Key Projects
+## 🧠 Featured Projects
 
-### 📰 Multimodal Fake News Detection System (Text + Image)
-- Developed a **full-stack AI system** to classify **Real vs Fake News**
-- Supports **both text and image inputs**
-- Models used:
-  - Traditional ML: **XGBoost, Random Forest, KNN**
-  - Deep Learning: **LSTM, BiLSTM, GRU**
-- Used **text & image embeddings**
-- Backend designed for **real-time predictions**
-- 🚀 Currently working on a **user-friendly web interface**
+### 📰 Multimodal Fake News Detection (Text + Image)
+AI system to classify **Real vs Fake News** from **text or images**
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat"/>
+  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC4899?style=flat"/>
+  <img src="https://img.shields.io/badge/FastAPI-14B8A6?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+- Traditional ML + Deep Learning models
+- Text & image embeddings
+- Real-time inference backend
+- 🚧 UI under development
 
 ---
 
 ### 🎓 Final Year Project (FYP)
 ## 📚 Student Learning & Career Assistance Platform
-- AI-powered platform to assist students with:
-  - Learning guidance
-  - Career recommendations
-  - Skill-based suggestions
-- Integrates **ML/NLP-based intelligence** for personalization
-- Focused on **real-world student problems & career planning**
+AI-powered system for **student learning guidance & career planning**
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
+  <img src="https://img.shields.io/badge/FastAPI-14B8A6?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat&logo=mongodb"/>
+</p>
+
+- Personalized recommendations
+- Skill & career guidance
+- AI-driven decision support
 
 ---
 
 ### 💬 Sentiment Analysis (DL & Transformers)
-- Binary text classification
-- Implemented & compared:
-  - RNN, GRU, LSTM, BiLSTM
-  - **mBERT, XLM-RoBERTa**
-- Evaluation metrics:
-  - Accuracy, Precision, Recall, F1-score
-- Included **hyperparameter tuning & analysis**
+Binary text classification using classical DL & Transformers
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/mBERT-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/XLM--RoBERTa-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
+</p>
 
 ---
 
 ### ⚙️ Automation & No-Code Workflows
-- Built **AI + automation workflows** using:
-  - **n8n**
-  - Zapier
-  - Make.com
-  - Cassidy
-- Automated:
-  - Data flows
-  - AI API calls
-  - Content & system integrations
+AI + automation pipelines using no-code tools
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/n8n-F97316?style=flat"/>
+  <img src="https://img.shields.io/badge/Zapier-F97316?style=flat"/>
+  <img src="https://img.shields.io/badge/Make.com-6366F1?style=flat"/>
+  <img src="https://img.shields.io/badge/Cassidy-111827?style=flat"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🛠️ Tech Stack (Theme-Matched)
 
 ### 👨‍💻 Programming & Backend
 <p>
-  <img src="https://img.shields.io/badge/Python-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"/>
-  <img src="https://img.shields.io/badge/C%23-purple?logo=csharp"/>
+  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/C%23-4C1D95?style=for-the-badge&logo=csharp"/>
 </p>
 
 ### 🤖 AI / ML / CV / NLP
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-red"/>
-  <img src="https://img.shields.io/badge/NLP-green"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-blue"/>
-  <img src="https://img.shields.io/badge/Transformers-black"/>
-  <img src="https://img.shields.io/badge/PyTorch-red"/>
-  <img src="https://img.shields.io/badge/TensorFlow-orange"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-F97316?style=for-the-badge&logo=tensorflow"/>
 </p>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & DevOps
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Redis-red?logo=redis"/>
+  <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Redis-991B1B?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker"/>
 </p>
 
-### 🧰 DevOps & Tools
+### 🧰 Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Jupyter-orange?logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-yellow?logo=googlecolab"/>
-</p>
-
-### ⚡ No-Code / Automation
-<p>
-  <img src="https://img.shields.io/badge/n8n-FF6D00"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00"/>
-  <img src="https://img.shields.io/badge/Make.com-purple"/>
-  <img src="https://img.shields.io/badge/Cassidy-black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-1D4ED8?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Jupyter-F97316?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-FACC15?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
 
-## ✍️ Technical Writing & Blogging
+## 🧠 Visual Skills Roadmap
 
-- 📝 Founder of **Dev Blogs**
-- Writing in-depth articles on:
-  - AI & Machine Learning
-  - NLP & Computer Vision
-  - Developer tools & modern AI stacks
-- Focused on **high-quality, long-form, monetized content**
-
-🌐 https://abdullahjvd384.github.io/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahjvd384&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjvd384&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🎯 Career Objective
-
-> AI / Machine Learning Engineer passionate about building **intelligent, scalable, and real-world AI systems**, seeking opportunities to grow, innovate, and contribute to impactful products.
-
----
-
-⭐ **Open to AI/ML internships, junior roles, collaborations & freelance projects**
+```text
+Foundations
+│
+├── Python ▸ Data Structures ▸ OOP
+│
+├── Machine Learning
+│   ├── Regression / Classification
+│   ├── Feature Engineering
+│   └── Model Evaluation
+│
+├── Deep Learning
+│   ├── CNNs (Computer Vision)
+│   ├── RNN / LSTM / GRU
+│   └── Transformers
+│
+├── NLP
+│   ├── Tokenization & Embeddings
+│   ├── Sentiment Analysis
+│   └── Fake News Detection
+│
+├── Backend & Deployment
+│   ├── FastAPI
+│   ├── Docker
+│   └── MongoDB / Redis
+│
+└── Automation
+    ├── n8n
+    ├── Zapier
+    └── Make.com
