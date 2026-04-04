@@ -1,183 +1,191 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">
-AI / ML Engineer @ Metaviz | BS Data Science (FAST NUCES) | 2+ Years Experience
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdullahjvd384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://abdullahjvd384.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Dev%20Blogs-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01f0a1c55cbc8d4ab7">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=200&section=header&text=Abdullah%20Javed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descAlignY=60&descSize=18&animation=fadeIn" />
 
----
+</div>
 
-## 🚀 Recruiter Snapshot
+<div align="center">
 
-- 👨‍💻 **AI / Machine Learning Engineer @ Metaviz**
-- 🎓 **BS Data Science** — FAST National University (FAST NUCES)
-- ⏳ **2+ years professional experience** (AI, ML, Backend & Automation)
-- 🤖 Expertise in **Machine Learning, Deep Learning, NLP & Computer Vision**
-- ⚙️ Built **end-to-end AI systems** (data → models → APIs → deployment)
-- 🔁 Strong in **automation & AI workflows** using no-code tools
-- 🎯 Open to **AI/ML internships, junior AI roles & freelance projects**
+<a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdullahjvd384@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://abdullahjvd384.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01f0a1c55cbc8d4ab7">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahjvd384&color=0f766e&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## 💼 Current Role
+## About Me
 
-### 🧠 AI / Machine Learning Engineer — **Metaviz**
-- Designing and deploying **ML & NLP-based solutions**
-- Working on **data pipelines, experimentation & inference APIs**
-- Collaborating with backend & product teams for **AI integration**
-- Applying research ideas into **production-ready systems**
+I'm an **AI / ML Engineer at Metaviz** with 2+ years of experience turning research-grade models into production systems that actually ship.
 
----
+My work spans the full AI delivery pipeline — from cleaning messy data and fine-tuning transformer models, to building inference APIs, wiring up RAG architectures, and automating workflows that run without babysitting. I hold a **BS in Data Science from FAST NUCES (CGPA 3.5+)** and have built production systems across NLP, Computer Vision, and LLM integration.
 
-## 🧠 Featured Projects
-
-### 📰 Multimodal Fake News Detection (Text + Image)
-AI system to classify **Real vs Fake News** from **text or images**
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat"/>
-  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC4899?style=flat"/>
-  <img src="https://img.shields.io/badge/FastAPI-14B8A6?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat&logo=mongodb&logoColor=white"/>
-</p>
-
-- Traditional ML + Deep Learning models
-- Text & image embeddings
-- Real-time inference backend
-- 🚧 UI under development
+I don't just train models — I deploy them.
 
 ---
 
-### 🎓 Final Year Project (FYP)
-## 📚 Student Learning & Career Assistance Platform
-AI-powered system for **student learning guidance & career planning**
+## What I've Shipped
 
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat"/>
-  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
-  <img src="https://img.shields.io/badge/FastAPI-14B8A6?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=flat&logo=mongodb"/>
-</p>
+### 🕵️ Multimodal Fake News Detector
+> **NLP + Computer Vision | FastAPI + PyTorch + MongoDB**
 
-- Personalized recommendations
-- Skill & career guidance
-- AI-driven decision support
+Most fake news classifiers look at text alone. This one doesn't. I built a multimodal detection system that fuses text embeddings with image signals — the way misinformation actually spreads online.
+
+- Ensemble architecture: **XGBoost + deep PyTorch models** over joint text-image features
+- Deployed as a **live FastAPI inference backend** with MongoDB persistence
+- Demonstrates production AI beyond the Jupyter notebook
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/abdullahjvd384/fake-news-detector)
 
 ---
 
-### 💬 Sentiment Analysis (DL & Transformers)
-Binary text classification using classical DL & Transformers
+### 🎓 SLCA — Student Learning & Career Assistance *(Final Year Project)*
+> **ML Recommendations + NLP + FastAPI + Node.js + MongoDB**
 
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/mBERT-111827?style=flat"/>
-  <img src="https://img.shields.io/badge/XLM--RoBERTa-111827?style=flat"/>
-  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=flat"/>
-  <img src="https://img.shields.io/badge/NLP-22C55E?style=flat"/>
-</p>
+Built an AI platform that gives university students personalized learning paths and career guidance — reducing decision paralysis at critical academic junctures.
 
----
+- **ML-based skill gap analysis** with career-fit scoring
+- Full-stack system: **FastAPI + Node.js + MongoDB** working end-to-end
+- **NLP pipelines** for profile parsing and intelligent Q&A
+- Presented live to faculty — selected as a standout FYP project
 
-### ⚙️ Automation & No-Code Workflows
-AI + automation pipelines using no-code tools
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/n8n-F97316?style=flat"/>
-  <img src="https://img.shields.io/badge/Zapier-F97316?style=flat"/>
-  <img src="https://img.shields.io/badge/Make.com-6366F1?style=flat"/>
-  <img src="https://img.shields.io/badge/Cassidy-111827?style=flat"/>
-</p>
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/abdullahjvd384/SLCA-project)
 
 ---
 
-## 🛠️ Tech Stack (Theme-Matched)
+### 💬 Gemini PDF Chatbot
+> **RAG Pipeline | LangChain + Google Gemini + Streamlit**
 
-### 👨‍💻 Programming & Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/C%23-4C1D95?style=for-the-badge&logo=csharp"/>
-</p>
+PDF chat that actually works — not a demo toy. I built an end-to-end RAG pipeline: PDF ingestion → chunking → vector indexing → retrieval → Gemini-powered response generation.
 
-### 🤖 AI / ML / CV / NLP
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EF4444?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-F97316?style=for-the-badge&logo=tensorflow"/>
-</p>
+- Handles arbitrary documents with **semantic search + LLM synthesis**
+- Deployed as a shareable **Streamlit app** with no infrastructure overhead
+- Demonstrates practical LLM orchestration far beyond prompt engineering
 
-### 🗄️ Databases & DevOps
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Redis-991B1B?style=for-the-badge&logo=redis"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker"/>
-</p>
-
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-1D4ED8?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Jupyter-F97316?style=for-the-badge&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-FACC15?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman"/>
-</p>
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/abdullahjvd384/gemini-pdf-chatbot)
 
 ---
 
-## 🧠 Visual Skills Roadmap
+### 🧍 Postura AI — Real-Time Posture Analysis
+> **Computer Vision | Flutter + ML Pose Estimation**
 
-```text
-Foundations
-│
-├── Python ▸ Data Structures ▸ OOP
-│
-├── Machine Learning
-│   ├── Regression / Classification
-│   ├── Feature Engineering
-│   └── Model Evaluation
-│
-├── Deep Learning
-│   ├── CNNs (Computer Vision)
-│   ├── RNN / LSTM / GRU
-│   └── Transformers
-│
-├── NLP
-│   ├── Tokenization & Embeddings
-│   ├── Sentiment Analysis
-│   └── Fake News Detection
-│
-├── Backend & Deployment
-│   ├── FastAPI
-│   ├── Docker
-│   └── MongoDB / Redis
-│
-└── Automation
-    ├── n8n
-    ├── Zapier
-    └── Make.com
+AI posture correction that runs on your phone — not in the cloud. I integrated a pose estimation model into a cross-platform Flutter app with real-time inference inside the rendering loop.
+
+- Handles **on-device ML inference** with frame-rate constraints
+- Delivers corrective posture feedback in real time via device camera
+- Proves AI can ship as a mobile product, not just an API
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/abdullahjvd384/Postura-AI)
+
+---
+
+### ⚙️ Multilingual Sentiment Analysis — Transformers
+> **NLP Research | mBERT + XLM-RoBERTa | PyTorch**
+
+Fine-tuned and benchmarked **multilingual BERT vs XLM-RoBERTa** for binary sentiment classification — applied to low-resource language scenarios where off-the-shelf models fall short.
+
+- Ran controlled **comparative experiments** across architectures
+- Applied **transfer learning** to bridge the research-to-production gap
+
+---
+
+## Tech Stack
+
+### AI / ML / NLP / CV
+![PyTorch](https://img.shields.io/badge/PyTorch-EF4444?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F97316?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F89820?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4899?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f766e?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4C1D95?style=flat-square&logo=csharp&logoColor=white)
+
+### Data & Infra
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-991B1B?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=flat-square&logo=docker&logoColor=white)
+
+### Automation & Orchestration
+![n8n](https://img.shields.io/badge/n8n-F97316?style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6366F1?style=flat-square)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=abdullahjvd384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjvd384&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahjvd384&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## What I Bring to a Team
+
+```
+✦  End-to-end ownership         →  From raw data to deployed, monitored API
+✦  Research → production gap    →  Fine-tuned transformers that actually run in prod
+✦  Multimodal thinking          →  Text + vision fusion, not single-modality shortcuts
+✦  Backend fluency              →  FastAPI, Node.js, Docker — AI that integrates cleanly
+✦  Automation mindset           →  n8n / Make / Zapier for AI workflow orchestration
+✦  Mobile AI delivery           →  On-device CV inference in Flutter
+```
+
+---
+
+## Open To
+
+- 🤖 **AI / ML Engineering roles** — production NLP, CV, LLM pipelines
+- 🔬 **Research collaborations** — applied ML with real-world deployment goals
+- 💼 **Freelance AI projects** — end-to-end, from model to API to UI
+
+---
+
+<div align="center">
+
+**Building something with AI? Let's talk.**
+
+<a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdullahjvd384@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01f0a1c55cbc8d4ab7">
+  <img src="https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=100&section=footer" />
+
+</div>
