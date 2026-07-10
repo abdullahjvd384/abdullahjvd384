@@ -71,11 +71,11 @@ I'm an **AI/ML Engineer** who turns research-grade models into systems that actu
 | Project | What It Does | Stack |
 |---|---|---|
 | [**Student Learning & Career Assistant** (FYP)](https://github.com/abdullahjvd384/SLCA-project) | RAG academic platform ingesting PDFs & audio to deliver personalized learning paths | FastAPI, RAG, Pinecone, PostgreSQL |
-| **Blogify — AI Blog Platform** | AI blogging platform with LLM content-review agents, RAG pipelines & writer monetization | LLMs, RAG, MongoDB |
+| [**Blogify — AI Blog Platform**](https://github.com/abdullahjvd384/Blogify) | AI blogging platform with LLM content-review agents, RAG pipelines & writer monetization | LLMs, RAG, MongoDB |
 | [**Multimodal Fake News Detection**](https://github.com/abdullahjvd384/fake-news-detector) | Text + CNN image ensemble over 10K samples to detect fake articles & images | PyTorch, ResNet-50, EfficientNet, FastAPI |
 | [**Gemini PDF Chatbot**](https://github.com/abdullahjvd384/gemini-pdf-chatbot) | End-to-end RAG over arbitrary PDFs — chunk → embed → retrieve → generate | LangChain, Gemini, Streamlit |
 | **AI Product Recommendation System** | NLP engine analyzing purchase history for personalized e-commerce recommendations | NLP, scikit-learn, Python |
-| **Cricket Squad Prediction System** | 5K+ player records → squad prediction with K-Means / RF + Power BI dashboards | scikit-learn, Pandas, Power BI |
+| [**Cricket Squad Prediction System**](https://github.com/AmmarAhm3d/Optimal-Cricket-Team-Prediction-ML-DL) | 5K+ player records → squad prediction with K-Means / RF + Power BI dashboards | scikit-learn, Pandas, Power BI |
 
 ---
 
