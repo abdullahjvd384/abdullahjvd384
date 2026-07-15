@@ -13,7 +13,7 @@
 <a href="https://metaviz.pro">
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-%40%20Metaviz-2DD4BF?style=for-the-badge&labelColor=0f766e" alt="role"/>
 </a>
-<a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
+<a href="https://www.linkedin.com/in/abdullahjvd384/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abdullahjvd384@gmail.com">
@@ -217,7 +217,7 @@ I'm an **AI/ML Engineer** who turns research-grade models into systems that actu
 
 **Working on an AI product? I take it from model to deployed API.**
 
-<a href="https://www.linkedin.com/in/abdullah-javed-1671062a1/">
+<a href="https://www.linkedin.com/in/abdullahjvd384/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abdullahjvd384@gmail.com">
